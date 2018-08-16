@@ -1,10 +1,10 @@
 {
   "name" : "card-action",
   "type" : "Component"
-  "category": �Layout�
+  "category": "Layout",
   "version" : "1.0.0",
   "averageRating" : 1,
-  "description" : "it is a component which contains buttons�,
+  "description" : "it is a component which contains buttons" ,
   "platformSupportVersion" : "4.0.0",
   "publisher" : "Ayush"
 
