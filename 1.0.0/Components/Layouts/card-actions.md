@@ -1,10 +1,10 @@
 {
   "name" : "card-action",
-  "type" : "Component"
-  "category": �Layout�
-  "version" : "1.0.0",
+  "type" : Component
+  "category":Layout,
+  "version" :"1.0.0",
   "averageRating" : 1,
-  "description" : "it is a component which contains buttons�,
+  "description" : "it is a component which contains buttons",
   "platformSupportVersion" : "4.0.0",
   "publisher" : "Ayush"
 
@@ -24,7 +24,7 @@ Card actions can be used as a container that contains buttons.
 Drag and drop a card actions provide the style and class attribute for that.And button component can be placed inside that.
 
 ##### Example
-Display a card with a paragraph and card actions that has two button like and subscribe.
+**Display a card with a paragraph and card actions that has two button like and subscribe.**
 
 - Drag and drop a card.
 
